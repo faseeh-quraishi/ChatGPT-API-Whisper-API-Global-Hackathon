@@ -19,11 +19,13 @@ def AudioRecorder(secs):
     frames = []
 
     # Record audio from the microphone and store it in the frames list
+    print('recording...')
     for i in range(0, int(RATE / CHUNK * RECORD_SECONDS)):
         data = stream.read(CHUNK)
         frames.append(data)
 
     # Stop the microphone stream and terminate the PyAudio object
+    print('Recorded.')
     stream.stop_stream()
     stream.close()
     audio.terminate()
