@@ -7,6 +7,7 @@ def whisper():
     # fetching key
     key = open('OpenAI-API.txt','r').readline()
     openai.api_key = key
+    print('transcribing...')
     with open("recorded_audio.wav", "rb") as f:
         transcript = openai.Audio().transcribe("whisper-1", f)
     # return transcript['text']

@@ -17,13 +17,14 @@ def chatGPT():
 
     completion = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
+    temperature = 0.5,
     messages=JSON_format
     )
-
+    print('Intelligent Healthcare Assistant: '+completion.choices[0].message['content'])
     response = open('GPT-3.5_data.txt','a+')
-    input = '\nuser: '+completion.choices[0].message
+    input = '\nassistant: '+str(completion.choices[0].message['content'])
     response.write(input)
-    # print(completion.choices[0].message)
+    
 
 
 
