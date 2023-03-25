@@ -1,9 +1,3 @@
-from Record import AudioRecorder
-
-AudioRecorder(10)
-
-
-
 def whisper():
 # Speech to Text
 
@@ -22,4 +16,4 @@ def whisper():
     input = '\nuser: '+transcript['text']
     prompt.write(input)
 
-whisper()
+# whisper()
