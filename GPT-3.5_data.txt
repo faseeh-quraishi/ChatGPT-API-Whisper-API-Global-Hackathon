@@ -9,3 +9,70 @@ user:How common is it to have COVID-19 and not know it (i.e. asymptomatic COVID-
 assistant:Without universal screening, it is hard to know how many people are infected and don’t know it. There have been some studies attempting to estimate the number of people with SARS-CoV-2 infection who remain asymptomatic. A recent systematic review estimated that 20 percent of people with SARS-CoV-2 infection never developed symptoms at any time throughout the follow-up period. Notably, since people can test positive for COVID-19 before developing symptoms (during a pre-symptomatic period), even those who do not have symptoms at the time of diagnosis may not remain asymptomatic over time.
 user:I have been identified as a close contact of a known COVID-19 case. Why do I need to quarantine if my nose test was negative?
 assistant:Viral testing using a nasal swab looks for genetic material from SARS-CoV-2, which is detectable only during a certain window after infection. The incubation period for the virus is up to 14 days. So, if you have a negative test within the first few days after exposure, you could have a positive test a few days later, because it can take up to 14 days for the virus to grow and be detected in your nose. That is why the CDC recommends quarantine for 14 days for everyone with a known exposure to someone with COVID-19, even if viral testing is negative. 
+user:What is the best thing to drink if you have a stomach virus?
+assistant:Drink small sips of water, clear broth, sports drinks (without caffeine), or rehydration solutions. You can also try sucking on ice chips.
+Wait about 2 hours since your last episode of vomiting before you start fluids.
+Continue to drink sips of fluids (over a long period) to help prevent dehydration.
+user:Is a stomach virus contagious?
+assistant:Yes, a stomach virus is contagious, and you can get it from another person’s unwashed hands, from contaminated surfaces, or from food or drink that contains the virus.
+
+The most common stomach viruses in the U.S. are the norovirus (often called the Norwalk virus), rotavirus (common in babies and young children), enterovirus, and adenovirus.
+user:What is the best way to wash hands properly?
+assistant:Step 1: Wet hands with running water
+
+Step 2: Apply enough soap to cover wet hands
+
+Step 3: Scrub all surfaces of the hands – including back of hands, between fingers and under nails – for at least 20 seconds.
+
+Step 4: Rinse thoroughly with running water
+
+Step 5: Dry hands with a clean cloth or single-use towel
+
+Wash your hands often, especially before eating; after blowing your nose, coughing, or sneezing; and going to the bathroom. 
+
+If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol. Always wash hands with soap and water, if hands are visibly dirty.
+user:I’m worried about bullying, discrimination and stigmatization. What’s the best way to talk about what’s happening?
+assisstant:It’s understandable if you’re feeling worried about the coronavirus. But fear and stigma make a difficult situation worse. For example, there are reports emerging from around the world of individuals, particularly of Asian descent, being subject to verbal or even physical abuse.
+
+Public health emergencies are stressful times for everyone affected. It’s important to stay informed and to be kind and supportive to each other. Words matter, and using language that perpetuates existing stereotypes can drive people away from getting tested and taking the actions they need to protect themselves and their communities.
+
+Here are some do’s and don’ts for how to talk about the coronavirus with your children, family and friends:
+
+
+DO: talk about the new coronavirus disease (COVID-19)
+
+DON’T: attach locations or ethnicity to the disease. Remember, viruses can’t target people from specific populations, ethnicities, or racial backgrounds.
+
+
+DO: talk about “people who have COVID-19”, “people who are being treated for COVID-19”, “people who are recovering from COVID-19” or “people who died after contracting COVID-19”
+
+DON’T: refer to people with the disease as “COVID-19 cases” or “victims”
+
+
+DO: talk about people “acquiring” or “contracting” COVID-19 
+
+DON’T: talk about people “transmitting COVID-19” “infecting others” or “spreading the virus” as it implies intentional transmission and assigns blame.
+
+
+DO: speak accurately about the risk from COVID-19, based on scientific data and latest official health advice
+
+DON’T: repeat or share unconfirmed rumours, and avoid using hyperbolic language designed to generate fear like “plague”, “apocalypse” etc.
+
+
+DO: talk positively and emphasise the importance of effective prevention measures, including following our tips on handwashing. For most people this is a disease they can overcome. There are simple steps we can all take to keep ourselves, our loved ones and the most vulnerable safe.
+user:What are infectious diseases?
+assistant:Infectious diseases are illnesses caused by harmful organisms (pathogens) that get into your body from the outside. Pathogens that cause infectious diseases are viruses, bacteria, fungi, parasites and, rarely, prions. You can get infectious diseases from other people, bug bites and contaminated food, water or soil.
+user:What’s the difference between infectious diseases and noninfectious diseases?
+assistant:Infectious diseases are caused by harmful organisms that get into your body from the outside, like viruses and bacteria. Noninfectious diseases aren’t caused by outside organisms, but by genetics, anatomical differences, getting older and the environment you live in. You can’t get noninfectious diseases from other people, by getting a bug bite or from your food.
+
+The flu, measles, HIV, strep throat, COVID-19 and salmonella are all examples of infectious diseases. Cancer, diabetes, congestive heart failure and Alzheimer’s disease are all examples of noninfectious diseases.
+user:What causes infectious diseases?
+assistant:Infectious diseases are caused by a variety of agents that invade your body from the outside. These include:
+
+Viruses.
+Bacteria.
+Fungi.
+Parasites.
+Prions.
+You may develop symptoms when your cells are damaged or destroyed by the invading organism and as your immune system responds to the infection.
+user:
