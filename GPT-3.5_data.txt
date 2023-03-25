@@ -32,7 +32,7 @@ Wash your hands often, especially before eating; after blowing your nose, coughi
 
 If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol. Always wash hands with soap and water, if hands are visibly dirty.
 user:I’m worried about bullying, discrimination and stigmatization. What’s the best way to talk about what’s happening?
-assisstant:It’s understandable if you’re feeling worried about the coronavirus. But fear and stigma make a difficult situation worse. For example, there are reports emerging from around the world of individuals, particularly of Asian descent, being subject to verbal or even physical abuse.
+assistant:It’s understandable if you’re feeling worried about the coronavirus. But fear and stigma make a difficult situation worse. For example, there are reports emerging from around the world of individuals, particularly of Asian descent, being subject to verbal or even physical abuse.
 
 Public health emergencies are stressful times for everyone affected. It’s important to stay informed and to be kind and supportive to each other. Words matter, and using language that perpetuates existing stereotypes can drive people away from getting tested and taking the actions they need to protect themselves and their communities.
 
@@ -75,4 +75,23 @@ Fungi.
 Parasites.
 Prions.
 You may develop symptoms when your cells are damaged or destroyed by the invading organism and as your immune system responds to the infection.
-user:
+user:What is chickenpox?
+assisstant:Chickenpox is an infection that causes a skin rash. The disease is caused by a germ called varicella-zoster virus. (Chickenpox itself is also called varicella-zoster.) Most people will get the virus when they’re young if they haven’t had a chickenpox vaccine.
+user:How is chickenpox spread?
+assistant:Children can get chickenpox at any age. After being exposed to chickenpox, your child may appear to be fine for one to three weeks before feeling sick. Children can spread the virus from one day before they show signs of illness to about five days after a skin rash appears.
+user:What is the difference between smallpox and chickenpox?
+assistant:Chickenpox and smallpox are both diseases that produce rashes on the skin, but they are different. For one thing, smallpox is a much more serious disease, causing severe illness and death. They are caused by different viruses.
+
+While the two diseases both produce rashes, the rashes themselves develop at different times and the rashes look different. Smallpox pustules look the same as each other, while the chickenpox rash develops in waves. The individual spots don’t look the same and some form scabs while others are still blistering.
+
+There’s another important difference. A massive global vaccination program has eradicated (wiped out) smallpox.
+
+user:How can I help my child with chickenpox?
+assistant:Make sure your child gets plenty of rest and fluids. Chickenpox will go away on its own in a week or two. To help your child feel less itchy, you can:
+
+Press a cool, moist rag on the rash.
+Keep your child cool.
+Encourage your child not to scratch. Trim their fingernails so they can't scratch.
+Put a lotion with antihistamines on the rash. These lotions are available at the drugstore. If you don't know what to buy, ask the pharmacist for help.
+Give your child an over-the-counter (OTC) form of antihistamine. Diphenhydramine (Benadryl®) and cetirizine (Zyrtec®) are two examples of OTC antihistamines.
+Give your child a cool bath or shower every day. You can also give your child an oatmeal bath. When you’re drying them off, don’t rub with the towel. Pat your child dry.
