@@ -9,10 +9,10 @@ AudioRecorder(10)
 
 # import openai
 # # fetching key
-# key = open('whisperAPI.txt','r').readline()
+# key = open('OpenAI-API.txt','r').readline()
 # # print(key)
 # openai.api_key = key
 # with open("recorded_audio.wav", "rb") as f:
 #     transcript = openai.Audio().transcribe("whisper-1", f)
-# print(transcript['text'])
+# whisper_resp = transcript['text']
 
