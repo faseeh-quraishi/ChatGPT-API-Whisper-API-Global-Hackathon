@@ -4,8 +4,8 @@ def whisper():
     import openai
     # transcript = {'text':'I have frequent loose and watery stool, I feel abdominal pain and cramps.'}
     
-    # fetching key
-    key = open('OpenAI-API.txt','r').readline()
+    # fetching key from file 'OpenAI-API.txt'
+    key = open('OpenAI-API.txt','r').readline() # Enter <API-key> in a file named as 'OpenAI-API.txt' in a project folder.
     print('Key for Whisper API fetched')
     openai.api_key = key
     print('Transcribing...')
