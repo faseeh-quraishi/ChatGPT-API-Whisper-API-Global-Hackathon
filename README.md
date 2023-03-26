@@ -1,4 +1,6 @@
 # ChatGPT-API-Whisper-API-Global-Hackathon
 
-Note: You should have already installed pyaudio and openai libraries in your environment. You should have your own OpenAI api key in file named as 'OpenAI-API.txt' to run whisper and ChatGPT files. 
+Note: To run this code python and following libraries must be installed in the environment: pyaudio, pyttsx3 and openai. User should have user's own OpenAI API key in file named as 'OpenAI-API.txt' to run Whisper and ChatGPT files. 
 
+To run application:
+- Run "main.py"
