@@ -6,15 +6,18 @@ def whisper():
     
     # fetching key
     key = open('OpenAI-API.txt','r').readline()
+    print('Key for Whisper API fetched')
     openai.api_key = key
-    print('transcribing...')
+    print('Transcribing...')
     with open("recorded_audio.wav", "rb") as f:
         transcript = openai.Audio().transcribe("whisper-1", f)
     # return transcript['text']
 
-    print('Transcribed User Input: '+{transcript['text']})
+    print('Transcribed User Input: '+str({transcript['text']}))
     prompt = open('GPT-3.5_data.txt','a+')
-    input = '\nuser: '+transcript['text']
+    input = '\nuser: '+str(transcript['text'])
     prompt.write(input)
+
+    print('Transcribed Input saved in a data file.')
 
 # whisper()

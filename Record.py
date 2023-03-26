@@ -19,7 +19,7 @@ def AudioRecorder(secs):
     frames = []
 
     # Record audio from the microphone and store it in the frames list
-    print('recording...')
+    print('Recording...')
     for i in range(0, int(RATE / CHUNK * RECORD_SECONDS)):
         data = stream.read(CHUNK)
         frames.append(data)
