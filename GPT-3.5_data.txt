@@ -13,8 +13,7 @@ user:Doctor, I feel like i have a high fever profuse sweating,headache,nausea,vo
 assistant: According to your described symptoms, you might have malaria.There’s no vaccine available to prevent malaria. Talk to your doctor if you’re traveling to an area where malaria is common or if you live in such an area..Allium sativum, Croton macrostachyus, Carica papaya, and Lepidium sativum
 user:Doctor, I feel like i have a Urinate (pee) a lot, often at night,Are very thirsty,Lose weight without trying,Are very hungry,Have blurry vision,Feel very tired?
 assistant: According to your described symptoms, you might have Diabetes.Immunization provides the best protection against vaccinepreventable diseases.Aloe Vera,Bitter melon are common herbal treatments.
-
-user:user:Doctor, I feel like i have a Bladder changes,Bleeding or bruising, for no known reason,Bowel changes,Cough or hoarseness that does not go away,Eating problems,Fatigue that is severe and lasts.?
+user:user:Doctor, I feel like i have a Bladder changes,Bleeding or bruising, for no known reason,Bowel changes,Cough or hoarseness that does not go away,Eating problems,Fatigue that is severe and lasts.
 assistant: According to your described symptoms, you might have Cancer.alkylating agents,nitrosoureas,antimetabolites,anti-tumor antibiotics,plant alkaloids,corticosteroids,miscellaneous drugs that should suggest your doctor.Marijuana, Boswellia, Curcumin/Turmeric, White Willow Bark, Arnica.
 user:user:Doctor, I feel like i have a Decreased urine output, although occasionally urine output remains normal,Fluid retention, causing swelling in your legs, ankles or feet,Shortness of breath,Fatigue,Confusion,Nausea,Weakness,Irregular heartbeat,Chest pain or pressure,Chest pain or pressure?
 assistant: According to your described symptoms, you might have kideny problems.Pay attention to labels when taking over-the-counter (OTC) pain medications. .ginger, grape, turmeric, beetroot juice, stinging nettle, onions, apples, tea, papaya, bitter leaf, and guava leaves.
@@ -23,4 +22,3 @@ assistant: According to your described symptoms, you might have urine infection.
 user:Doctor, I feel like i have a usea, vomiting, or sensitivity to light?
 assistant: According to your described symptoms, you might have urine Migrain.There are herbal treatment you should take Feverfew,Butterbur,Peppermint,Willow,Ginger,Caffeine,Valerian,Coriander seed.
 user:Doctor, I feel like i have a usea, vomiting, or sensitivity to light?
-
